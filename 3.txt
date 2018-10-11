@@ -1,0 +1,9 @@
+scan the Qr:
+get the string ".. -. ..-. --- ... . -.-. ..-. .-.. .- --. .. ... -- --- .-. ... .. -. --."
+looks like morse so checking the translation:
+"INFOSECFLAGISMORSING"
+
+lets look of it as a normal sentence:
+Info sec flag is morsing.
+
+so the flag is morsing :) .
